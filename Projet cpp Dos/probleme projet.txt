@@ -1,0 +1,20 @@
+Au cours de la mise en œuvre de notre projet ambitieux, nous avons dû surmonter divers obstacles qui ont enrichi notre parcours de développement. Ces défis, bien que parfois arduis, ont façonné notre expérience de manière inattendue et ont contribué à notre apprentissage. Voici une expansion détaillée de chacun des problèmes rencontrés :
+
+Difficulté à Trouver des Ressources en Ligne pour l'Apprentissage de Qt :
+La première étape de notre périple a été marquée par la recherche incessante de ressources en ligne pour maîtriser l'environnement de développement Qt. Malgré l'abondance d'informations disponibles, trier et sélectionner des ressources de qualité s'est avéré être une tâche exigeante. La diversité des supports a ajouté une complexité supplémentaire, nécessitant une navigation minutieuse à travers une myriade de tutoriels, de forums et de documentations.
+
+Complexité de l'Apprentissage des Widgets de Qt :
+L'appréhension des widgets dans le cadre du framework Qt s'est avérée être une entreprise laborieuse. Chaque widget a ses propres particularités et fonctionnalités, exigeant une immersion approfondie dans la documentation officielle et la réalisation de multiples exemples pratiques. Cette phase d'apprentissage intensif a inévitablement rallongé notre calendrier de développement initial.
+
+Problématique Liée à la Logique du Jeu :
+La conceptualisation et la mise en œuvre de la logique du jeu ont constitué un défi intellectuel majeur. Nous avons été confrontés à des dilemmes complexes, tels que la conception de mécanismes de jeu interactifs et la résolution de problèmes liés à la gestion de l'état du jeu. Les multiples itérations nécessaires pour parvenir à une logique de jeu cohérente ont entraîné des retards imprévus dans notre échéancier.
+
+Débogage du Code et Découragement :
+En dépit de notre engagement inflexible, le processus de développement n'a pas été sans embûches. Les bugs persistants dans le code ont parfois conduit à des moments de frustration et de découragement. Le débogage rigoureux a été nécessaire, avec des cycles itératifs de correction de bugs, test et retest. Ces défis imprévus ont rallongé notre effort global, mais ont également renforcé notre résilience face aux obstacles techniques.
+
+En conclusion, bien que ces défis aient semblé initialement décourageants, ils ont contribué de manière inattendue à notre croissance en tant que développeurs. L'ensemble du processus, du combat initial pour trouver des ressources à la résolution minutieuse des bugs, a forgé une expérience complète, nous préparant ainsi à relever des défis plus complexes à l'avenir.
+
+
+
+
+
